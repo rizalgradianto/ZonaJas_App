@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102403684777",
+    "project_id": "zona-jas",
+    "storage_bucket": "zona-jas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102403684777:android:4e16ee409d279b4656acb8",
+        "android_client_info": {
+          "package_name": "com.example.zonajas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGhk7rqpPOEQbF1YviPeEsKCajSWelng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
